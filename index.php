@@ -1,3 +1,3 @@
 <?php
-echo "Index or not";
+echo "Index";
 ?>
